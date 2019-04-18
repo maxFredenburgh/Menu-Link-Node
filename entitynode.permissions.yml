@@ -1,0 +1,14 @@
+'delete entitynode':
+  title: Delete entitynode
+  description: Allows users to delete replace entity.
+'add entitynode':
+  title: Add entitynode
+'view entitynode':
+  title: View entitynode
+'edit entitynode':
+  title: Edit entitynode
+  description: Allows users to edit entitynode.
+'administer entitynode':
+  title: Administer settings
+  description: Allows users to alter the settings related to entitynode.
+  restrict access: TRUE

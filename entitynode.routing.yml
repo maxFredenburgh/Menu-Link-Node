@@ -1,0 +1,9 @@
+
+entitynode.entityNodeForm:
+  path: '/entitynode/form/default'
+  defaults:
+    _form: '\Drupal\entitynode\Form\DefaultForm'
+    _title: 'Replace entitynode destination'
+  requirements:
+    _access: 'TRUE'
+  

@@ -1,0 +1,6 @@
+entitynode.admin:
+  title: 'Replace entitynode'
+  description: 'entitynode destination'
+  parent: system.admin_config_development
+  route_name: entitynode.entityNodeForm
+  weight: 100
